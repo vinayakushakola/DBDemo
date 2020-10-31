@@ -1,1 +1,2 @@
-Select "Welcome to Master"
+Use SchoolDB
+
